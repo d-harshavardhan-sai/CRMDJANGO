@@ -71,6 +71,35 @@
 
 ---
 
+## 📄 License
+This project is currently unlicensed.  
+Feel free to contact me for any questions regarding usage or contributions.
+
+---
+
+## 🤝 Contributing
+Contributions are welcome! Please open issues or pull requests for improvements or bug fixes.
+
+---
+
+## 📬 Contact
+
+<p align="center">
+  Created by <strong>Harshavardhan Sai Divvala</strong> — <br/><br/>
+  <a href="https://www.linkedin.com/in/d-harshavardhan-sai" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="margin-right:10px;" />
+  </a>
+  <a href="https://www.instagram.com/ha_darling_ha?igsh=djhlbWp4Y2p2aTU5" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" />
+  </a>
+</p>
+
+<p align="center">
+  — feel free to reach out!
+</p>
+
+ ---
+
 ## 📸 Screenshots
 
 ### 🎨 1. UI Design  
@@ -139,34 +168,6 @@
 
 ---
 
-## 📄 License
-This project is currently unlicensed.  
-Feel free to contact me for any questions regarding usage or contributions.
-
----
-
-## 🤝 Contributing
-Contributions are welcome! Please open issues or pull requests for improvements or bug fixes.
-
----
-
-## 📬 Contact
-
-<p align="center">
-  Created by <strong>Harshavardhan Sai Divvala</strong> — <br/><br/>
-  <a href="https://www.linkedin.com/in/d-harshavardhan-sai" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="margin-right:10px;" />
-  </a>
-  <a href="https://www.instagram.com/ha_darling_ha?igsh=djhlbWp4Y2p2aTU5" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="30" />
-  </a>
-</p>
-
-<p align="center">
-  — feel free to reach out!
-</p>
-
- ---
 
 ## ⚡ Quick Start
 
