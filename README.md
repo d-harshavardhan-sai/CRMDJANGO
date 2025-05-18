@@ -72,68 +72,70 @@
 ---
 
 ## 📸 Screenshots
-### 📝 1. UI Design 
+
+### 🎨 1. UI Design  
 <img src="https://github.com/user-attachments/assets/cb292823-40ce-48bf-a353-de3299c23f1e" width="400"/>
 
 ---
 
-### ⚠️ 2. DB Before Add
+### 🗄️ 2. DB Before Add  
 <img src="https://github.com/user-attachments/assets/b3152b2a-4350-4e78-a522-f19306362f8d" width="400"/>
 
 ---
 
-### 🔒 3. UI After Add
+### 🖥️ 3. UI After Add  
 <img src="https://github.com/user-attachments/assets/8487cae4-c8b4-4805-a5ee-19daa038594f" width="400"/>
 
 ---
 
-### 🔑 4. DB After Add
+### 🗃️ 4. DB After Add  
 <img src="https://github.com/user-attachments/assets/65a8b83e-6b0a-4d5b-8bfe-f9020dff2200" width="400"/>
 
 ---
 
-### 🔐 5. UI Add Multi
+### ➕ 5. UI Add Multi  
 <img src="https://github.com/user-attachments/assets/3eb9adbe-8d83-460c-a91c-ff16f96086fd" width="400"/>
 
 ---
 
-### ❌ 6. DB Add Multi
+### 📥 6. DB Add Multi  
 <img src="https://github.com/user-attachments/assets/f09d7277-c648-46a0-bc8d-829ee336e872" width="400"/>
 
 ---
 
-### ✅ 7. DB And Console Logs
+### ✅ 7. DB And Console Logs  
 <img src="https://github.com/user-attachments/assets/e869e91d-b517-4232-94e5-ea9c64b526d4" width="400"/>
 
 ---
 
-### 📲 8. Add Teacher
+### 👩‍🏫 8. Add Teacher  
 <img src="https://github.com/user-attachments/assets/48e548f5-a392-48b6-a064-25b35474ffd5" width="400"/>
 
 ---
 
-### 📋 9. Edit Teacher
+### ✏️ 9. Edit Teacher  
 <img src="https://github.com/user-attachments/assets/2975a2cb-cda3-46b2-b7d7-71126c98fac2" width="400"/>
 
 ---
 
-### 💬 10. Delete Teacher
+### 🗑️ 10. Delete Teacher  
 <img src="https://github.com/user-attachments/assets/89cace8c-e534-4db4-b146-23b9c593b309" width="400"/>
 
 ---
 
-### 🟢 11. Render Deployment status of CRM - School Project (Teachers Management)
+### 🚀 11. Render Deployment Status of CRM - School Project (Teachers Management)  
 <img src="https://github.com/user-attachments/assets/457b1af4-6b05-428b-b2fe-dd5f61418114" width="400"/>
 
 ---
 
-### ⏰ 12. Metrics
+### 📊 12. Metrics  
 <img src="https://github.com/user-attachments/assets/c671987e-76d3-439e-9daa-1c6ac71409bc" width="400"/>
 
 ---
 
-### 🔍 13. Logs
+### 🔎 13. Logs  
 <img src="https://github.com/user-attachments/assets/907411b1-176f-4e49-81dc-8a2ae027b64d" width="400"/>
+
 
 ---
 
